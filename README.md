@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tenzin-shenphel
-- 👀 I’m interested in music and online games
-- 🌱 I’m currently learning Cloud computing 
+- 👀 I’m interested in coding and music
+- 🌱 I’m currently learning AWS Program
 - 💞️ I’m looking to collaborate on ...
 - 📫 to Reach me- Email-tenzinshenphel17@gmail.com
                   Likedin- https://www.linkedin.com/in/tenzin-shenphel-770922290
